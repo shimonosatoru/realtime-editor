@@ -1,0 +1,15 @@
+{
+  "name": "realtime-editor",
+  "version": "0.0.0",
+  "description": "A simple realtime editor using socket.io",
+  "main": "index.js",
+  "author": "Satoru Shimono",
+  "private": true,
+  "dependencies": {
+    "express": "4.13.4",
+    "socket.io": "^2.3.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
